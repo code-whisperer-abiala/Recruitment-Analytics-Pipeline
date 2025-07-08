@@ -1,0 +1,101 @@
+name,role_applied,status,application_date,interview_date,recruiter,notes,email
+Emily Morse,Marketing Intern,Rejected,5/16/2025,,Grace Chikadibia,"Rejected , skill mismatch.",emily.morse@example.com
+Teresa Martin,Marketing Intern,Hired,4/19/2025,4/29/2025,Grace Isiaka,Hired and added to team roster.,teresa.martin@example.com
+Natalie Sanders,Recruiter,Hired,5/5/2025,5/15/2025,Taylor Brooks,"Background check cleared , joining next week.",natalie.sanders@example.com
+Bryan Silva,Recruiter,Offer Sent,4/16/2025,4/27/2025,Taylor Brooks,"Offer extended , awaiting response.",bryan.silva@example.com
+Jennifer Silva,Software Engineer,Rejected,3/21/2025,,Chichi Bernard,Candidate did not meet requirements.,jennifer.silva@example.com
+Brandon Jones,Data Analyst,Offer Sent,4/4/2025,4/16/2025,Grace Isiaka,"Offer extended , awaiting response.",brandon.jones@example.com
+Mark Black MD,Marketing Intern,Hired,6/16/2025,6/25/2025,Grace Chikadibia,"Background check cleared , joining next week.",mark.md@example.com
+Michael Valencia,Marketing Intern,Hired,4/23/2025,5/1/2025,Ebube Lasisi,Hired and added to team roster.,michael.valencia@example.com
+Amanda Williams,Data Analyst,Interviewing,4/6/2025,7/9/2025,Chichi Bernard,"Interview scheduled , awaiting feedback.",amanda.williams@example.com
+Lori Roberts,Software Engineer,Hired,3/23/2025,3/28/2025,Taylor Brooks,"Candidate accepted offer , onboarding started.",lori.roberts@example.com
+Andrea Garza,BI Developer,Hired,4/4/2025,4/12/2025,Taylor Brooks,"Background check cleared , joining next week.",andrea.garza@example.com
+Rose Smith MD,HR Coordinator,Offer Sent,6/15/2025,6/25/2025,Taylor Brooks,"Offer extended , awaiting response.",rose.md@example.com
+Christopher Arellano,Software Engineer,Interviewing,6/16/2025,6/25/2025,Alex Morgan,"Interview scheduled , awaiting feedback.",christopher.arellano@example.com
+Jamie Mendoza,HR Coordinator,Interviewing,5/23/2025,6/24/2025,Grace Isiaka,Candidate progressing to final round.,jamie.mendoza@example.com
+Shelia Ward,BI Developer,Hired,5/31/2025,6/12/2025,Ebube Lasisi,"Background check cleared , joining next week.",shelia.ward@example.com
+Donna Martinez,Recruiter,Screening,4/1/2025,,Ebube Lasisi,"Resume reviewed , scheduling initial screening.",donna.martinez@example.com
+Pamela Johnson,Recruiter,Hired,6/9/2025,6/17/2025,Taylor Brooks,"Background check cleared , joining next week.",pamela.johnson@example.com
+Shane Tucker,BI Developer,Rejected,5/31/2025,,Ebube Lasisi,Candidate did not meet requirements.,shane.tucker@example.com
+Roberto Estrada,Software Engineer,Hired,4/9/2025,4/14/2025,Grace Chikadibia,"Background check cleared , joining next week.",roberto.estrada@example.com
+Melanie Herring,BI Developer,Offer Sent,5/7/2025,5/19/2025,Grace Chikadibia,Pending candidate's confirmation.,melanie.herring@example.com
+Michael Black,HR Coordinator,Interviewing,5/21/2025,6/23/2025,Grace Isiaka,"Interview scheduled , awaiting feedback.",michael.black@example.com
+Jessica Bryant,Software Engineer,Rejected,4/2/2025,,Chichi Bernard,"Rejected , skill mismatch.",jessica.bryant@example.com
+Dakota Snyder,Recruiter,Hired,5/17/2025,5/21/2025,Chichi Bernard,"Background check cleared , joining next week.",dakota.snyder@example.com
+Brenda Smith,Data Analyst,Interviewing,4/20/2025,7/4/2025,Taylor Brooks,First round interview completed.,brenda.smith@example.com
+Jordan Davies,Software Engineer,Interviewing,4/2/2025,7/1/2025,Taylor Brooks,"Interview scheduled , awaiting feedback.",jordan.davies@example.com
+Margaret White,Data Analyst,Interviewing,4/20/2025,6/19/2025,Grace Chikadibia,First round interview completed.,margaret.white@example.com
+Jeffrey Henry,Data Analyst,Rejected,6/5/2025,,Chichi Bernard,Not selected after interview.,jeffrey.henry@example.com
+Joe Taylor,HR Coordinator,Hired,4/4/2025,4/13/2025,Grace Isiaka,"Candidate accepted offer , onboarding started.",joe.taylor@example.com
+Jennifer Cain,BI Developer,Applied,3/27/2025,,Taylor Brooks,"Resume submitted , awaiting screening.",jennifer.cain@example.com
+Tiffany Jarvis,HR Coordinator,Offer Sent,3/21/2025,3/31/2025,Grace Isiaka,Offer issued after final round interview.,tiffany.jarvis@example.com
+Michael Lucas,Marketing Intern,Rejected,6/16/2025,,Ebube Lasisi,Not selected after interview.,michael.lucas@example.com
+Matthew Pope,Software Engineer,Screening,5/7/2025,,Ebube Lasisi,Candidate under consideration for screening.,matthew.pope@example.com
+Tiffany Williams,Data Analyst,Offer Sent,4/26/2025,5/3/2025,Taylor Brooks,Pending candidate's confirmation.,tiffany.williams@example.com
+Mia Brooks,Recruiter,Hired,4/5/2025,4/13/2025,Taylor Brooks,"Candidate accepted offer , onboarding started.",mia.brooks@example.com
+Andrew Thompson,BI Developer,Interviewing,4/28/2025,5/4/2025,Grace Chikadibia,"Interview scheduled , awaiting feedback.",andrew.thompson@example.com
+Frank Hayden,HR Coordinator,Offer Sent,5/10/2025,5/20/2025,Jordan Kim,Offer issued after final round interview.,frank.hayden@example.com
+William Mathews,Software Engineer,Interviewing,5/17/2025,5/25/2025,Jordan Kim,"Interview scheduled , awaiting feedback.",william.mathews@example.com
+Dawn Ruiz DDS,Data Analyst,Interviewing,5/19/2025,5/24/2025,Jamie Rivera,Candidate progressing to final round.,dawn.ruiz@example.com
+Leslie Ball,Data Analyst,Rejected,4/21/2025,,Taylor Brooks,Candidate did not meet requirements.,leslie.ball@example.com
+Jesse Bennett,Marketing Intern,Offer Sent,6/12/2025,6/21/2025,Sam Lee,"Offer extended , awaiting response.",jesse.bennett@example.com
+Donald Hudson,BI Developer,Rejected,6/13/2025,,Taylor Brooks,"Rejected , skill mismatch.",donald.hudson@example.com
+James Rodriguez,HR Coordinator,Hired,4/11/2025,4/25/2025,Jordan Kim,Hired and added to team roster.,james.rodriguez@example.com
+Mrs. Donna Alvarado,BI Developer,Hired,5/14/2025,5/17/2025,Jamie Rivera,"Candidate accepted offer , onboarding started.",mrs.alvarado@example.com
+Brenda Williamson,HR Coordinator,Hired,4/30/2025,5/12/2025,Alex Morgan,"Background check cleared , joining next week.",brenda.williamson@example.com
+James Johnson,Marketing Intern,Interviewing,4/22/2025,5/6/2025,Jordan Kim,Candidate progressing to final round.,james.johnson@example.com
+Anna Hansen,Recruiter,Interviewing,3/20/2025,7/1/2025,Taylor Brooks,"Interview scheduled , awaiting feedback.",anna.hansen@example.com
+Samantha Griffin,Data Analyst,Hired,4/9/2025,,Sam Lee,"Background check cleared , joining next week.",samantha.griffin@example.com
+Daniel Taylor,Data Analyst,Hired,5/8/2025,5/14/2025,Alex Morgan,"Candidate accepted offer , onboarding started.",daniel.taylor@example.com
+Brett Sutton,Data Analyst,Hired,4/12/2025,4/23/2025,Taylor Brooks,"Candidate accepted offer , onboarding started.",brett.sutton@example.com
+Katie Harrison,Software Engineer,Hired,4/19/2025,5/2/2025,Jordan Kim,Hired and added to team roster.,katie.harrison@example.com
+Anthony Williams,HR Coordinator,Applied,5/24/2025,,Sam Lee,Candidate has not yet been contacted.,anthony.williams@example.com
+Ashlee Cross,Marketing Intern,Rejected,3/26/2025,,Taylor Brooks,Candidate did not meet requirements.,ashlee.cross@example.com
+Aaron Carroll,BI Developer,Rejected,3/24/2025,6/27/2025,Jordan Kim,"Rejected , skill mismatch.",aaron.carroll@example.com
+Larry Ford,HR Coordinator,Screening,3/31/2025,,Jordan Kim,Phone screen scheduled with recruiter.,larry.ford@example.com
+Gail Cardenas,Software Engineer,Screening,6/7/2025,,Jordan Kim,Phone screen scheduled with recruiter.,gail.cardenas@example.com
+Craig Henry,Software Engineer,Hired,4/2/2025,4/14/2025,Alex Morgan,"Background check cleared , joining next week.",craig.henry@example.com
+Christopher Contreras,Software Engineer,Interviewing,6/10/2025,6/19/2025,Jamie Rivera,First round interview completed.,christopher.contreras@example.com
+April Smith,HR Coordinator,Hired,3/25/2025,,Jamie Rivera,"Candidate accepted offer , onboarding started.",april.smith@example.com
+Lauren Jones,Recruiter,Interviewing,4/25/2025,5/7/2025,Jamie Rivera,Candidate progressing to final round.,lauren.jones@example.com
+Louis Anderson,Software Engineer,Offer Sent,4/17/2025,4/26/2025,Taylor Brooks,Pending candidate's confirmation.,louis.anderson@example.com
+Adrian Potter,BI Developer,Rejected,4/11/2025,,Jordan Kim,Not selected after interview.,adrian.potter@example.com
+James Nelson,HR Coordinator,Offer Sent,3/30/2025,4/11/2025,Taylor Brooks,"Offer extended , awaiting response.",james.nelson@example.com
+Brian Carpenter,Data Analyst,Rejected,5/8/2025,,Sam Lee,Candidate did not meet requirements.,brian.carpenter@example.com
+Christine Gutierrez,Data Analyst,Rejected,3/30/2025,,Jamie Rivera,"Rejected , skill mismatch.",christine.gutierrez@example.com
+David Fuller,HR Coordinator,Hired,5/9/2025,6/26/2025,Jordan Kim,Hired and added to team roster.,david.fuller@example.com
+Angelica Ramos,Marketing Intern,Rejected,4/29/2025,,Jamie Rivera,Not selected after interview.,angelica.ramos@example.com
+Javier Thompson,Marketing Intern,Rejected,3/24/2025,,Jamie Rivera,Candidate did not meet requirements.,javier.thompson@example.com
+Trevor Leonard,Recruiter,Screening,4/25/2025,,Jordan Kim,"Resume reviewed , scheduling initial screening.",trevor.leonard@example.com
+Fernando Mullen,Recruiter,Rejected,6/6/2025,,Sam Lee,Candidate did not meet requirements.,fernando.mullen@example.com
+Jason Nelson,Marketing Intern,Hired,5/19/2025,5/26/2025,Taylor Brooks,Hired and added to team roster.,jason.nelson@example.com
+Brittany Lewis,Data Analyst,Interviewing,3/21/2025,3/26/2025,Jamie Rivera,Candidate progressing to final round.,brittany.lewis@example.com
+Jennifer Myers,Marketing Intern,Offer Sent,5/19/2025,5/29/2025,Jamie Rivera,Pending candidate's confirmation.,jennifer.myers@example.com
+Amy Horne,BI Developer,Screening,5/17/2025,,Jordan Kim,Phone screen scheduled with recruiter.,amy.horne@example.com
+Paul Patterson,HR Coordinator,Rejected,5/30/2025,,Jamie Rivera,"Rejected , skill mismatch.",paul.patterson@example.com
+Jose Schneider,Marketing Intern,Applied,4/18/2025,,Jordan Kim,"Resume submitted , awaiting screening.",jose.schneider@example.com
+Derek Meyer,Recruiter,Rejected,6/11/2025,,Taylor Brooks,Candidate did not meet requirements.,derek.meyer@example.com
+Traci Reid,Software Engineer,Rejected,3/23/2025,,Alex Morgan,Candidate did not meet requirements.,traci.reid@example.com
+Bruce Huff,BI Developer,Interviewing,3/30/2025,4/9/2025,Jordan Kim,First round interview completed.,bruce.huff@example.com
+Christopher Kelly,BI Developer,Screening,3/29/2025,,Jordan Kim,Candidate under consideration for screening.,christopher.kelly@example.com
+Brandon Bolton,Marketing Intern,Rejected,4/25/2025,,Sam Lee,Candidate did not meet requirements.,brandon.bolton@example.com
+Sandra Werner,HR Coordinator,Rejected,3/31/2025,,Sam Lee,Not selected after interview.,sandra.werner@example.com
+Ricardo Cox,Data Analyst,Hired,4/1/2025,4/10/2025,Taylor Brooks,Hired and added to team roster.,ricardo.cox@example.com
+Nicole Nelson,Data Analyst,Offer Sent,4/28/2025,5/6/2025,Sam Lee,Offer issued after final round interview.,nicole.nelson@example.com
+Tabitha Gibson,Marketing Intern,Interviewing,4/30/2025,5/11/2025,Sam Lee,First round interview completed.,tabitha.gibson@example.com
+Mr. Cesar Hayes,Data Analyst,Offer Sent,3/27/2025,4/2/2025,Jordan Kim,"Offer extended , awaiting response.",mr.hayes@example.com
+Andrew Lee,Marketing Intern,Applied,5/10/2025,,Jordan Kim,Candidate has not yet been contacted.,andrew.lee@example.com
+Jessica Johnson,Data Analyst,Offer Sent,4/25/2025,5/9/2025,Sam Lee,"Offer extended , awaiting response.",jessica.johnson@example.com
+Katherine Myers,Software Engineer,Offer Sent,3/31/2025,4/3/2025,Taylor Brooks,"Offer extended , awaiting response.",katherine.myers@example.com
+Edwin Simmons,Software Engineer,Rejected,4/3/2025,,Alex Morgan,Candidate did not meet requirements.,edwin.simmons@example.com
+Christine Wood,BI Developer,Interviewing,4/28/2025,5/3/2025,Alex Morgan,"Interview scheduled , awaiting feedback.",christine.wood@example.com
+Shannon Williams,Data Analyst,Rejected,6/15/2025,,Jamie Rivera,Not selected after interview.,shannon.williams@example.com
+Jennifer Horne,HR Coordinator,Hired,5/4/2025,5/17/2025,Sam Lee,"Candidate accepted offer , onboarding started.",jennifer.horne@example.com
+Stephen Lowe,Software Engineer,Applied,4/9/2025,,Sam Lee,"Application received , pending review.",stephen.lowe@example.com
+William Watkins DDS,Marketing Intern,Offer Sent,4/27/2025,5/6/2025,Jamie Rivera,Offer issued after final round interview.,william.watkins@example.com
+Susan Woodard,BI Developer,Offer Sent,4/14/2025,4/21/2025,Jamie Rivera,Pending candidate's confirmation.,susan.woodard@example.com
+Krista Gutierrez,Software Engineer,Screening,4/23/2025,,Jamie Rivera,Candidate under consideration for screening.,krista.gutierrez@example.com
+Pamela Guerra,Software Engineer,Hired,4/9/2025,4/12/2025,Taylor Brooks,Hired and added to team roster.,pamela.guerra@example.com
+Teresa Leonard,Recruiter,Interviewing,4/6/2025,4/18/2025,Taylor Brooks,"Interview scheduled , awaiting feedback.",teresa.leonard@example.com
+Sara Chavez,BI Developer,Screening,6/12/2025,,Alex Morgan,"Resume reviewed , scheduling initial screening.",sara.chavez@example.com
+Jasmine Ryan,Software Engineer,Interviewing,6/9/2025,7/3/2025,Jordan Kim,Candidate progressing to final round.,jasmine.ryan@example.com

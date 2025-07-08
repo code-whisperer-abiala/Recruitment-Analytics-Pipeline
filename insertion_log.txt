@@ -1,0 +1,17 @@
+2025-06-30 16:15:27.624859: Starting CSV data insertion from Candidates_With_Email_Updated_Notes.csv
+2025-06-30 16:15:34.382002: CSV data insertion committed. Inserted 100 new CSV records.
+2025-06-30 16:15:34.383273: Starting Synthetic data insertion for 100 records.
+2025-06-30 16:15:41.114247: Synthetic data insertion committed. Inserted 100 new synthetic records.
+2025-06-30 16:15:41.115479: All data insertion process completed.
+2025-06-30 16:15:41.117981: CRITICAL ERROR - Overall process failed: 'charmap' codec can't encode character '\u2705' in position 28: character maps to <undefined>
+2025-06-30 16:15:41.119530: PostgreSQL connection closed.
+2025-06-30 16:26:50.452739: Starting CSV data insertion from Candidates_With_Email_Updated_Notes.csv
+2025-06-30 16:26:54.004502: CSV data insertion committed. Inserted 0 new CSV records.
+2025-06-30 16:26:54.005552: Starting Synthetic data insertion for 100 records.
+2025-06-30 16:27:00.756448: Synthetic data insertion committed. Inserted 100 new synthetic records.
+2025-06-30 16:27:00.757651: All data insertion process completed.
+2025-06-30 16:27:00.758710: Summary — CSV inserted: 0, Synthetic inserted: 100
+2025-06-30 16:27:00.758755: Skipped duplicates logged in 'skipped_duplicates_log.txt'
+2025-06-30 16:27:00.758763: Insert completed.
+
+2025-06-30 16:27:00.761877: PostgreSQL connection closed.
