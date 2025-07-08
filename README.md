@@ -79,7 +79,7 @@ I built this project as a full-stack case study: from database schema to realist
 
  Want to connect or collaborate?  
 Let’s build something insightful: [LinkedIn](https://www.linkedin.com/in/grace-isiaka-97002aa8/)
-Or see more of my portfolio projects on: [Notion](https://bevel-sturgeon-89a.notion.site/From-SQL-to-Decisions-A-Full-Stack-Recruitment-Analytics-Pipeline-229ace9f2e3a802f9f02fc413942937e)
+Or see more of my portfolio projects on: [Notion](https://bevel-sturgeon-89a.notion.site/Grace-Isiaka-Data-Analytics-Portfolio-1e0ace9f2e3a8043bf78e72b72b603c3)
 
 ---
 
